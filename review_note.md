@@ -1,0 +1,4 @@
+- must be carefull about indentation
+- unlike other language like c++/c, python may causes error for extra parenthesis with the basic syntax structure such as if, elif, else, etc
+- a= int(input("Display words :")) takes an integer for variable a
+- #random.randint(m, n) pick a number from the rage of m~n
