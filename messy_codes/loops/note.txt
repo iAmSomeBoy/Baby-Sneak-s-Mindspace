@@ -1,0 +1,3 @@
+Python has only two loops
+1) while loop
+2) for loop
