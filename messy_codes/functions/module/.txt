@@ -1,0 +1,2 @@
+Module is a file that contains code to perform a specific task. 
+A module may contain variables, functions, classes etc.
