@@ -1,0 +1,7 @@
+In Python, lists are:
+
+Ordered - They maintain the order of elements.
+Mutable - Items can be changed after creation.
+Allow duplicates - They can contain duplicate values.
+
+In Python, a list can also have negative indices. The index of the last element is -1, the second last element is -2 and so on.
